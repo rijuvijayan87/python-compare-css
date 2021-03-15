@@ -1,0 +1,331 @@
+PROPERTY: align-content VALUE: normal
+PROPERTY: align-items VALUE: normal
+PROPERTY: align-self VALUE: auto
+PROPERTY: alignment-baseline VALUE: auto
+PROPERTY: animation-delay VALUE: 0s
+PROPERTY: animation-direction VALUE: normal
+PROPERTY: animation-duration VALUE: 0s
+PROPERTY: animation-fill-mode VALUE: none
+PROPERTY: animation-iteration-count VALUE: 1
+PROPERTY: animation-name VALUE: none
+PROPERTY: animation-play-state VALUE: running
+PROPERTY: animation-timing-function VALUE: ease
+PROPERTY: appearance VALUE: none
+PROPERTY: backdrop-filter VALUE: none
+PROPERTY: backface-visibility VALUE: visible
+PROPERTY: background-attachment VALUE: scroll
+PROPERTY: background-blend-mode VALUE: normal
+PROPERTY: background-clip VALUE: border-box
+PROPERTY: background-color VALUE: rgba(0, 0, 0, 0)
+PROPERTY: background-image VALUE: none
+PROPERTY: background-origin VALUE: padding-box
+PROPERTY: background-position VALUE: 0% 0%
+PROPERTY: background-repeat VALUE: repeat
+PROPERTY: background-size VALUE: auto
+PROPERTY: baseline-shift VALUE: 0px
+PROPERTY: block-size VALUE: 70px
+PROPERTY: border-block-end-color VALUE: rgb(53, 53, 53)
+PROPERTY: border-block-end-style VALUE: none
+PROPERTY: border-block-end-width VALUE: 0px
+PROPERTY: border-block-start-color VALUE: rgb(53, 53, 53)
+PROPERTY: border-block-start-style VALUE: none
+PROPERTY: border-block-start-width VALUE: 0px
+PROPERTY: border-bottom-color VALUE: rgba(53, 53, 53, 1)
+PROPERTY: border-bottom-left-radius VALUE: 0px
+PROPERTY: border-bottom-right-radius VALUE: 0px
+PROPERTY: border-bottom-style VALUE: none
+PROPERTY: border-bottom-width VALUE: 0px
+PROPERTY: border-collapse VALUE: separate
+PROPERTY: border-end-end-radius VALUE: 0px
+PROPERTY: border-end-start-radius VALUE: 0px
+PROPERTY: border-image-outset VALUE: 0
+PROPERTY: border-image-repeat VALUE: stretch
+PROPERTY: border-image-slice VALUE: 100%
+PROPERTY: border-image-source VALUE: none
+PROPERTY: border-image-width VALUE: 1
+PROPERTY: border-inline-end-color VALUE: rgb(53, 53, 53)
+PROPERTY: border-inline-end-style VALUE: none
+PROPERTY: border-inline-end-width VALUE: 0px
+PROPERTY: border-inline-start-color VALUE: rgb(53, 53, 53)
+PROPERTY: border-inline-start-style VALUE: none
+PROPERTY: border-inline-start-width VALUE: 0px
+PROPERTY: border-left-color VALUE: rgba(53, 53, 53, 1)
+PROPERTY: border-left-style VALUE: none
+PROPERTY: border-left-width VALUE: 0px
+PROPERTY: border-right-color VALUE: rgba(53, 53, 53, 1)
+PROPERTY: border-right-style VALUE: none
+PROPERTY: border-right-width VALUE: 0px
+PROPERTY: border-start-end-radius VALUE: 0px
+PROPERTY: border-start-start-radius VALUE: 0px
+PROPERTY: border-top-color VALUE: rgba(53, 53, 53, 1)
+PROPERTY: border-top-left-radius VALUE: 0px
+PROPERTY: border-top-right-radius VALUE: 0px
+PROPERTY: border-top-style VALUE: none
+PROPERTY: border-top-width VALUE: 0px
+PROPERTY: bottom VALUE: 0px
+PROPERTY: box-shadow VALUE: none
+PROPERTY: box-sizing VALUE: border-box
+PROPERTY: break-after VALUE: auto
+PROPERTY: break-before VALUE: auto
+PROPERTY: break-inside VALUE: auto
+PROPERTY: buffered-rendering VALUE: auto
+PROPERTY: caption-side VALUE: top
+PROPERTY: caret-color VALUE: rgb(53, 53, 53)
+PROPERTY: clear VALUE: none
+PROPERTY: clip VALUE: auto
+PROPERTY: clip-path VALUE: none
+PROPERTY: clip-rule VALUE: nonzero
+PROPERTY: color VALUE: rgba(53, 53, 53, 1)
+PROPERTY: color-interpolation VALUE: srgb
+PROPERTY: color-interpolation-filters VALUE: linearrgb
+PROPERTY: color-rendering VALUE: auto
+PROPERTY: column-count VALUE: auto
+PROPERTY: column-gap VALUE: normal
+PROPERTY: column-rule-color VALUE: rgb(53, 53, 53)
+PROPERTY: column-rule-style VALUE: none
+PROPERTY: column-rule-width VALUE: 0px
+PROPERTY: column-span VALUE: none
+PROPERTY: column-width VALUE: auto
+PROPERTY: content VALUE: normal
+PROPERTY: cursor VALUE: auto
+PROPERTY: cx VALUE: 0px
+PROPERTY: cy VALUE: 0px
+PROPERTY: d VALUE: none
+PROPERTY: direction VALUE: ltr
+PROPERTY: display VALUE: block
+PROPERTY: dominant-baseline VALUE: auto
+PROPERTY: empty-cells VALUE: show
+PROPERTY: fill VALUE: rgb(0, 0, 0)
+PROPERTY: fill-opacity VALUE: 1
+PROPERTY: fill-rule VALUE: nonzero
+PROPERTY: filter VALUE: none
+PROPERTY: flex-basis VALUE: auto
+PROPERTY: flex-direction VALUE: row
+PROPERTY: flex-grow VALUE: 0
+PROPERTY: flex-shrink VALUE: 1
+PROPERTY: flex-wrap VALUE: nowrap
+PROPERTY: float VALUE: left
+PROPERTY: flood-color VALUE: rgb(0, 0, 0)
+PROPERTY: flood-opacity VALUE: 1
+PROPERTY: font-family VALUE: Lato, Helvetica, Arial, sans-serif
+PROPERTY: font-kerning VALUE: auto
+PROPERTY: font-optical-sizing VALUE: auto
+PROPERTY: font-size VALUE: 16px
+PROPERTY: font-stretch VALUE: 100%
+PROPERTY: font-style VALUE: normal
+PROPERTY: font-variant VALUE: normal
+PROPERTY: font-variant-caps VALUE: normal
+PROPERTY: font-variant-east-asian VALUE: normal
+PROPERTY: font-variant-ligatures VALUE: normal
+PROPERTY: font-variant-numeric VALUE: normal
+PROPERTY: font-weight VALUE: 400
+PROPERTY: grid-auto-columns VALUE: auto
+PROPERTY: grid-auto-flow VALUE: row
+PROPERTY: grid-auto-rows VALUE: auto
+PROPERTY: grid-column-end VALUE: auto
+PROPERTY: grid-column-start VALUE: auto
+PROPERTY: grid-row-end VALUE: auto
+PROPERTY: grid-row-start VALUE: auto
+PROPERTY: grid-template-areas VALUE: none
+PROPERTY: grid-template-columns VALUE: none
+PROPERTY: grid-template-rows VALUE: none
+PROPERTY: height VALUE: 70px
+PROPERTY: hyphens VALUE: manual
+PROPERTY: image-orientation VALUE: from-image
+PROPERTY: image-rendering VALUE: auto
+PROPERTY: inline-size VALUE: 1200px
+PROPERTY: inset-block-end VALUE: 0px
+PROPERTY: inset-block-start VALUE: 0px
+PROPERTY: inset-inline-end VALUE: 0px
+PROPERTY: inset-inline-start VALUE: 0px
+PROPERTY: isolation VALUE: auto
+PROPERTY: justify-content VALUE: normal
+PROPERTY: justify-items VALUE: normal
+PROPERTY: justify-self VALUE: auto
+PROPERTY: left VALUE: 0px
+PROPERTY: letter-spacing VALUE: normal
+PROPERTY: lighting-color VALUE: rgb(255, 255, 255)
+PROPERTY: line-break VALUE: auto
+PROPERTY: line-height VALUE: 20px
+PROPERTY: list-style-image VALUE: none
+PROPERTY: list-style-position VALUE: outside
+PROPERTY: list-style-type VALUE: disc
+PROPERTY: margin-block-end VALUE: 0px
+PROPERTY: margin-block-start VALUE: 0px
+PROPERTY: margin-bottom VALUE: 0px
+PROPERTY: margin-inline-end VALUE: 0px
+PROPERTY: margin-inline-start VALUE: 0px
+PROPERTY: margin-left VALUE: 0px
+PROPERTY: margin-right VALUE: 0px
+PROPERTY: margin-top VALUE: 0px
+PROPERTY: marker-end VALUE: none
+PROPERTY: marker-mid VALUE: none
+PROPERTY: marker-start VALUE: none
+PROPERTY: mask-type VALUE: luminance
+PROPERTY: max-block-size VALUE: none
+PROPERTY: max-height VALUE: none
+PROPERTY: max-inline-size VALUE: none
+PROPERTY: max-width VALUE: none
+PROPERTY: min-block-size VALUE: 1px
+PROPERTY: min-height VALUE: 1px
+PROPERTY: min-inline-size VALUE: 0px
+PROPERTY: min-width VALUE: 0px
+PROPERTY: mix-blend-mode VALUE: normal
+PROPERTY: object-fit VALUE: fill
+PROPERTY: object-position VALUE: 50% 50%
+PROPERTY: offset-distance VALUE: 0px
+PROPERTY: offset-path VALUE: none
+PROPERTY: offset-rotate VALUE: auto 0deg
+PROPERTY: opacity VALUE: 1
+PROPERTY: order VALUE: 0
+PROPERTY: orphans VALUE: 2
+PROPERTY: outline-color VALUE: rgba(53, 53, 53, 1)
+PROPERTY: outline-offset VALUE: 0px
+PROPERTY: outline-style VALUE: none
+PROPERTY: outline-width VALUE: 0px
+PROPERTY: overflow-anchor VALUE: auto
+PROPERTY: overflow-wrap VALUE: normal
+PROPERTY: overflow-x VALUE: visible
+PROPERTY: overflow-y VALUE: visible
+PROPERTY: overscroll-behavior-block VALUE: auto
+PROPERTY: overscroll-behavior-inline VALUE: auto
+PROPERTY: padding-block-end VALUE: 0px
+PROPERTY: padding-block-start VALUE: 0px
+PROPERTY: padding-bottom VALUE: 0px
+PROPERTY: padding-inline-end VALUE: 15px
+PROPERTY: padding-inline-start VALUE: 15px
+PROPERTY: padding-left VALUE: 15px
+PROPERTY: padding-right VALUE: 15px
+PROPERTY: padding-top VALUE: 0px
+PROPERTY: paint-order VALUE: normal
+PROPERTY: perspective VALUE: none
+PROPERTY: perspective-origin VALUE: 600px 35px
+PROPERTY: pointer-events VALUE: auto
+PROPERTY: position VALUE: relative
+PROPERTY: r VALUE: 0px
+PROPERTY: resize VALUE: none
+PROPERTY: right VALUE: 0px
+PROPERTY: row-gap VALUE: normal
+PROPERTY: ruby-position VALUE: over
+PROPERTY: rx VALUE: auto
+PROPERTY: ry VALUE: auto
+PROPERTY: scroll-behavior VALUE: auto
+PROPERTY: scroll-margin-block-end VALUE: 0px
+PROPERTY: scroll-margin-block-start VALUE: 0px
+PROPERTY: scroll-margin-inline-end VALUE: 0px
+PROPERTY: scroll-margin-inline-start VALUE: 0px
+PROPERTY: scroll-padding-block-end VALUE: auto
+PROPERTY: scroll-padding-block-start VALUE: auto
+PROPERTY: scroll-padding-inline-end VALUE: auto
+PROPERTY: scroll-padding-inline-start VALUE: auto
+PROPERTY: shape-image-threshold VALUE: 0
+PROPERTY: shape-margin VALUE: 0px
+PROPERTY: shape-outside VALUE: none
+PROPERTY: shape-rendering VALUE: auto
+PROPERTY: speak VALUE: normal
+PROPERTY: stop-color VALUE: rgb(0, 0, 0)
+PROPERTY: stop-opacity VALUE: 1
+PROPERTY: stroke VALUE: none
+PROPERTY: stroke-dasharray VALUE: none
+PROPERTY: stroke-dashoffset VALUE: 0px
+PROPERTY: stroke-linecap VALUE: butt
+PROPERTY: stroke-linejoin VALUE: miter
+PROPERTY: stroke-miterlimit VALUE: 4
+PROPERTY: stroke-opacity VALUE: 1
+PROPERTY: stroke-width VALUE: 1px
+PROPERTY: tab-size VALUE: 8
+PROPERTY: table-layout VALUE: auto
+PROPERTY: text-align VALUE: start
+PROPERTY: text-align-last VALUE: auto
+PROPERTY: text-anchor VALUE: start
+PROPERTY: text-decoration VALUE: none solid rgb(53, 53, 53)
+PROPERTY: text-decoration-color VALUE: rgb(53, 53, 53)
+PROPERTY: text-decoration-line VALUE: none
+PROPERTY: text-decoration-skip-ink VALUE: auto
+PROPERTY: text-decoration-style VALUE: solid
+PROPERTY: text-indent VALUE: 0px
+PROPERTY: text-overflow VALUE: clip
+PROPERTY: text-rendering VALUE: auto
+PROPERTY: text-shadow VALUE: none
+PROPERTY: text-size-adjust VALUE: 100%
+PROPERTY: text-transform VALUE: none
+PROPERTY: text-underline-position VALUE: auto
+PROPERTY: top VALUE: 0px
+PROPERTY: touch-action VALUE: auto
+PROPERTY: transform VALUE: none
+PROPERTY: transform-origin VALUE: 600px 35px
+PROPERTY: transform-style VALUE: flat
+PROPERTY: transition-delay VALUE: 0s
+PROPERTY: transition-duration VALUE: 0s
+PROPERTY: transition-property VALUE: all
+PROPERTY: transition-timing-function VALUE: ease
+PROPERTY: unicode-bidi VALUE: normal
+PROPERTY: user-select VALUE: auto
+PROPERTY: vector-effect VALUE: none
+PROPERTY: vertical-align VALUE: baseline
+PROPERTY: visibility VALUE: visible
+PROPERTY: white-space VALUE: normal
+PROPERTY: widows VALUE: 2
+PROPERTY: width VALUE: 1200px
+PROPERTY: will-change VALUE: auto
+PROPERTY: word-break VALUE: normal
+PROPERTY: word-spacing VALUE: 0px
+PROPERTY: writing-mode VALUE: horizontal-tb
+PROPERTY: x VALUE: 0px
+PROPERTY: y VALUE: 0px
+PROPERTY: z-index VALUE: auto
+PROPERTY: zoom VALUE: 1
+PROPERTY: -webkit-app-region VALUE: none
+PROPERTY: -webkit-border-horizontal-spacing VALUE: 0px
+PROPERTY: -webkit-border-image VALUE: none
+PROPERTY: -webkit-border-vertical-spacing VALUE: 0px
+PROPERTY: -webkit-box-align VALUE: stretch
+PROPERTY: -webkit-box-decoration-break VALUE: slice
+PROPERTY: -webkit-box-direction VALUE: normal
+PROPERTY: -webkit-box-flex VALUE: 0
+PROPERTY: -webkit-box-ordinal-group VALUE: 1
+PROPERTY: -webkit-box-orient VALUE: horizontal
+PROPERTY: -webkit-box-pack VALUE: start
+PROPERTY: -webkit-box-reflect VALUE: none
+PROPERTY: -webkit-font-smoothing VALUE: auto
+PROPERTY: -webkit-highlight VALUE: none
+PROPERTY: -webkit-hyphenate-character VALUE: auto
+PROPERTY: -webkit-line-break VALUE: auto
+PROPERTY: -webkit-line-clamp VALUE: none
+PROPERTY: -webkit-locale VALUE: "en-NZ"
+PROPERTY: -webkit-mask-box-image VALUE: none
+PROPERTY: -webkit-mask-box-image-outset VALUE: 0
+PROPERTY: -webkit-mask-box-image-repeat VALUE: stretch
+PROPERTY: -webkit-mask-box-image-slice VALUE: 0 fill
+PROPERTY: -webkit-mask-box-image-source VALUE: none
+PROPERTY: -webkit-mask-box-image-width VALUE: auto
+PROPERTY: -webkit-mask-clip VALUE: border-box
+[12960:8276:0314/203645.412:ERROR:device_event_log_impl.cc(214)] [20:36:45.413] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[12960:8276:0314/203645.413:ERROR:device_event_log_impl.cc(214)] [20:36:45.414] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[12960:8276:0314/203645.413:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 1.
+[12960:8276:0314/203645.413:ERROR:usb_descriptors.cc(140)] Failed to read length for configuration 2.
+[12960:8276:0314/203645.414:ERROR:usb_descriptors.cc(100)] Failed to read all configuration descriptors. Expected 3, got 1.
+[12960:8276:0314/203645.414:ERROR:device_event_log_impl.cc(214)] [20:36:45.415] USB: usb_device_win.cc:93 Failed to read descriptors from \\?\usb#vid_03f0&pid_9d1d#0123456789abcdef#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[12960:8276:0314/203645.414:ERROR:device_event_log_impl.cc(214)] [20:36:45.416] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+PROPERTY: -webkit-mask-composite VALUE: source-over
+PROPERTY: -webkit-mask-image VALUE: none
+PROPERTY: -webkit-mask-origin VALUE: border-box
+PROPERTY: -webkit-mask-position VALUE: 0% 0%
+PROPERTY: -webkit-mask-repeat VALUE: repeat
+PROPERTY: -webkit-mask-size VALUE: auto
+PROPERTY: -webkit-print-color-adjust VALUE: economy
+PROPERTY: -webkit-rtl-ordering VALUE: logical
+PROPERTY: -webkit-tap-highlight-color VALUE: rgba(0, 0, 0, 0)
+PROPERTY: -webkit-text-combine VALUE: none
+PROPERTY: -webkit-text-decorations-in-effect VALUE: none
+PROPERTY: -webkit-text-emphasis-color VALUE: rgb(53, 53, 53)
+PROPERTY: -webkit-text-emphasis-position VALUE: over right
+PROPERTY: -webkit-text-emphasis-style VALUE: none
+PROPERTY: -webkit-text-fill-color VALUE: rgb(53, 53, 53)
+PROPERTY: -webkit-text-orientation VALUE: vertical-right
+PROPERTY: -webkit-text-security VALUE: none
+PROPERTY: -webkit-text-stroke-color VALUE: rgb(53, 53, 53)
+PROPERTY: -webkit-text-stroke-width VALUE: 0px
+PROPERTY: -webkit-user-drag VALUE: auto
+PROPERTY: -webkit-user-modify VALUE: read-only
+PROPERTY: -webkit-writing-mode VALUE: horizontal-tb
