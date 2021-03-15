@@ -10,4 +10,4 @@ class Footer(BasePage):
 
     def get_css(self):
         self.get_css_properties('//footer')
-        self.create_css_dictionary()
+        return self.create_css_dictionary()

@@ -13,9 +13,7 @@ class Application:
 
     def extract_css(self):
         header = Header(self.driver)
-        header.get_css()
-        headerCSS = header.create_css_dictionary()
+        headerCSS = header.get_css()
         footer = Footer(self.driver)
-        footer.get_css()
-        footerCSS = footer.create_css_dictionary()
-        return [Dictionary(headerCSS), Dictionary(footerCSS)]
+        footerCSS = footer.get_css()
+        return [headerCSS, footerCSS]

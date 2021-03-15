@@ -57,42 +57,40 @@ class CompareApps(Setup):
             # This is the minimum number of edits needed to convert string a to string b
             return "The strings are {} edits away".format(distance[row][col])
 
+    def listToString(self, s):  
+        str1 = ""  
+        for ele in s:  
+            str1 += ele   
+        return str1  
+
+
     def compare(self, css_app1, css_app2):
-        self.css_app1 = css_app1
-        self.css_app2 = css_app2
+
+        total_properties = 0
+        total_differences = 0
         
-        for i in range(0, len(self.css_app1)):
-            ratio = self.levenshtein_ratio_and_distance(self.css_app1[i].getDictionaryValues(), self.css_app2[i].getDictionaryValues(), ratio_calc = True)
-            print(ratio)
-            if self.css_app1[i].getDictionaryValues() == self.css_app2[i].getDictionaryValues():
-                print("Same Object")
-            else:
-                print("Different Object")
-                print("##### APP 1 : Counter - ", i , " | ", self.css_app1[i].getDictionaryValues())
-                print("*******************************************")
-                print("*******************************************")
-                print("*******************************************")
-                print("##### APP 2 : Counter - ", i , " | ", self.css_app2[i].getDictionaryValues())
+        for i in range(0, len(css_app1)):
+            list_difference = []
+            for css in css_app1[i]:
+                if css in css_app2[i]:
+                    pass
+                else:
+                    list_difference.append(css)
+                total_properties += 1
+            total_differences = total_differences + len(list_difference)
+        return (total_properties - total_differences)/total_properties
+try:
+    e = CompareApps()
+    e.apps[0].navigate()
+    css_app1 = e.apps[0].extract_css()
 
-    def cosine_similarity(self, vec1,vec2):
-        print(vec1)
-        print(vec2)
-        sum11, sum12, sum22 = 0, 0, 0
-        for i in range(len(vec1)):
-            x = vec1[i]; y = vec2[i]
-            sum11 += x*x
-            sum22 += y*y
-            sum12 += x*y
-        return sum12/math.sqrt(sum11*sum22)
+    e.apps[1].navigate()
+    css_app2 = e.apps[1].extract_css()
 
-e = CompareApps()
+    comp = e.compare(css_app1, css_app2)
+    print ("CSS Similarity index of two applications is ", comp * 100 , "%")
+except print(0):
+    pass
+finally:
+    e.selenium_teardown()
 
-e.apps[0].navigate()
-css_app1 = e.apps[0].extract_css()
-
-e.apps[1].navigate()
-css_app2 = e.apps[1].extract_css()
-
-e.compare(css_app1, css_app2)
-
-e.selenium_teardown()
