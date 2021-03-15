@@ -12,3 +12,7 @@ class Setup:
     def selenim_setup(self):
         self.driver = webdriver.Chrome(executable_path=self.config['selenium']['CHROME_DRIVER'])
         self.driver.maximize_window()
+
+    def selenium_teardown(self):
+        self.driver.delete_all_cookies()
+        self.driver.quit()
