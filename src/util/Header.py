@@ -9,5 +9,5 @@ class Header(BasePage):
         pass
 
     def get_css(self):
-        self.get_css_properties('global-header')
+        self.get_css_properties('//header')
         return self.create_css_dictionary()    

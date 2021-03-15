@@ -5,7 +5,7 @@ class BasePage(object):
         self.driver.implicitly_wait(5)
 
     def get_css_properties(self, locator):
-        self.object = self.driver.find_element_by_class_name(locator)
+        self.object = self.driver.find_element_by_xpath(locator)
         self.properties = self.driver.execute_script('return window.getComputedStyle(arguments[0], null);', self.object)
 
     def create_css_dictionary(self):
